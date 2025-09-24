@@ -1,7 +1,7 @@
 Simple Web UI
 A responsive web page built to practice HTML and CSS skills.
 Technologies
-
+![preview](./image.jpg)
 HTML
 CSS
 
